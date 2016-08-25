@@ -12,7 +12,7 @@
  
   Matthew Tennis       : [@tattymennis] (https://www.github.com/tattymennis)
   
-  Christopher Gonsalves:
+  Christopher Gonsalves: [@cgonsalv@gru.edu]
  
   Connor Williams      :
 
